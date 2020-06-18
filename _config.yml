@@ -5,3 +5,4 @@ url:           http://BackendButters.github.io/code-guide/
 markdown:      rdiscount
 permalink:     pretty
 pygments:      true
+theme: jekyll-theme-minimal
